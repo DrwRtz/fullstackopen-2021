@@ -1,1 +1,1 @@
-Full Stack open 2021 course.
+Full Stack open course.
